@@ -1,0 +1,61 @@
+div.col-md-4 {
+  text-align:center;
+}
+
+i.glyphicon.glyphicon-heart {
+  font-size:35pt;
+}
+
+i.glyphicon.glyphicon-star {
+  font-size:35pt;
+}
+
+i.glyphicon.glyphicon-music {
+  font-size:35pt;
+}
+
+i.glyphicon.glyphicon-user {
+  font-size:35pt;
+}
+
+h1.text-center.about {
+  font-family:hel;
+  text-transform:lowercase;
+  letter-spacing:5pt;
+}
+
+h1#mainheader.text-center {
+  font-family:sans-serif;
+}
+
+i.icon {
+  color:white;
+}
+
+p#maintext.text-center {
+  margin-right:100px;
+  margin-left:100px;
+}
+
+div.footer-basic {
+  margin-top:50px;
+}
+
+div.container.cont1 {
+  margin-bottom:50px;
+  margin-top:30px;
+}
+
+@media (max-width:767px) {
+  p#maintext.text-center {
+    margin:10px;
+  }
+}
+
+@media (max-width:991px) {
+  p#maintext.text-center {
+    margin-right:50px;
+    margin-left:50px;
+  }
+}
+
